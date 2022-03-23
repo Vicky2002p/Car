@@ -4,7 +4,7 @@ import java.util.Scanner;  //importing util package
 public class RunCar {
 	
 	//main method
-	public void main() {
+	public static void main(String[] argc) {
 		
 		//scanner object
 		Scanner scnr = new Scanner(System.in);
